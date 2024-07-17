@@ -1,6 +1,6 @@
 # CaixaEletronicoArduino
 =====================================
-PT-BR
+pt-BR
 
 Caixa Eletrônico com Arduino, LCD I2C e Teclado Matricial
 Descrição
@@ -51,7 +51,7 @@ Permitir a impressão de recibos.
 Integrar com um sistema bancário real.
 Criar uma interface gráfica mais amigável.
 
-==============================================================================================================================================================================================
+=====================================
 
 eu_US
 
